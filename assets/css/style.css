@@ -169,3 +169,12 @@ body {
 .grupo tr th {
     color: white;
 }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.estadios {
+    text-align: center;
+}
