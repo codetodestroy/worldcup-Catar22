@@ -132,8 +132,8 @@ body {
 .article .flag {
     width: 30%;
     height: 200px;
-    float: left;
-    margin: 40px;
+    float: right;
+    margin: 20px;
 }
 
 .sobre-selecoes {
@@ -142,8 +142,8 @@ body {
 }
 
 .title-confrontos {
-    text-align: left;
-    margin: 20px
+    text-align: center;
+    margin: 40px 0;
 }
 
 .some-info {
