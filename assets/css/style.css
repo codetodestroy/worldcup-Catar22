@@ -11,6 +11,10 @@ body {
     background-image: linear-gradient(to right, #991B38, #341118);
 }
 
+.reset {
+    clear: both;
+}
+
 /* BOX PRINCIPAL */
 .content {
     background-color: white;
@@ -75,6 +79,10 @@ body {
     text-transform: uppercase;
 }
 
+.main-content {
+    width: 100%;
+}
+
 .main-content h1 {
     font-size: 2em;
     text-align: center;
@@ -112,4 +120,51 @@ body {
     font-size: 1.4em;
     color: green;
     text-align: center;
+}
+
+
+/* BANDEIRAS */
+
+.sobre {
+    width: 100%;
+}
+
+.article .flag {
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 40px;
+}
+
+.sobre-selecoes {
+    list-style: none;
+    font-weight: bold;
+}
+
+.title-confrontos {
+    text-align: left;
+    margin: 20px
+}
+
+.some-info {
+    list-style: none;
+    font-weight: normal;
+}
+
+.jogos {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+
+.grupo {
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    width: 200px;
+    margin: 15px auto;
+}
+
+.grupo tr th {
+    color: white;
 }
