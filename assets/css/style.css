@@ -159,10 +159,11 @@ body {
 
 .grupo {
     padding: 10px;
-    background-color: blue;
+    background-color: #991B38;
     border-radius: 10px;
-    width: 200px;
+    width: 400px;
     margin: 15px auto;
+    font-weight: bolder;
 }
 
 .grupo tr th {
